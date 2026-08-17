@@ -1,0 +1,9 @@
+#Temp files
+.~lock.*
+~$*
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Log files (vs-code crash logs, etc.)
+*.log
